@@ -7,11 +7,11 @@ An android application for navigating through city,gives information about all i
 # Screenshots
 ![](/screenshots/Screenshot_2016-07-18-22-41-16_xyz.niteshsahni.cityguidepro_nexus4_portrait.png)
 ![](/screenshots/Screenshot_2016-07-18-22-41-32_xyz.niteshsahni.cityguidepro_nexus4_portrait.png)
-![](/screenshots/Screenshot_2016-07-18-22-41-36_xyz.niteshsahni.cityguidepro_nexus4_portrait.png)
+![](/screenshots/Screenshot_2016-07-18-22-41-36_xyz.niteshsahni.cityguidepro_nexus4_angle1.png)
 ![](/screenshots/Screenshot_2016-07-18-22-41-42_xyz.niteshsahni.cityguidepro_nexus4_portrait.png)
-![](/screenshots/Screenshot_2016-07-18-22-41-49_xyz.niteshsahni.cityguidepro_nexus4_portrait.png)
+![](/screenshots/Screenshot_2016-07-18-22-41-49_xyz.niteshsahni.cityguidepro_nexus4_angle1.png)
 ![](/screenshots/Screenshot_2016-07-18-22-41-59_xyz.niteshsahni.cityguidepro_nexus4_portrait.png)
-![](/screenshots/Screenshot_2016-07-18-22-42-21_xyz.niteshsahni.cityguidepro_nexus4_portrait.png)
+![](/screenshots/Screenshot_2016-07-18-22-42-21_xyz.niteshsahni.cityguidepro_nexus4_angle1.png)
 ![](/screenshots/Screenshot_2016-07-18-22-42-36_xyz.niteshsahni.cityguidepro_nexus4_portrait.png)
 ![](/screenshots/Screenshot_2016-07-18-22-42-44_xyz.niteshsahni.cityguidepro_nexus4_portrait.png)
 
