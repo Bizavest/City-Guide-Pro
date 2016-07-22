@@ -2,7 +2,8 @@
 An android application for navigating through city,gives information about all important and mostly used services at one place
 
 # Downloads
-[Click here](https://github.com/nsniteshsahni/City-Guide-Pro/raw/master/app/app-release.apk) to download apk (beta) and give it a try
+[Click here](https://github.com/nsniteshsahni/City-Guide-Pro/raw/master/app/app-release.apk) to download apk (beta)
+[Click Here](https://www.amazon.com/Hacksters-City-Guide-Pro/dp/B01IVPG2YS/) to download from [Amazon app store](http://www.amazon.com/gp/mas/blp/install/ref=mas_rw_ldg?campaign=default&channel=us&appName=snuffy&appVersion=us_stable&asin=&dl=1)
 
 # Screenshots
 ![](/screenshots/Screenshot_2016-07-18-22-41-16_xyz.niteshsahni.cityguidepro_nexus4_portrait.png)
